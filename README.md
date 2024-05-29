@@ -62,3 +62,11 @@ Utilize um software como o Arduino IDE Serial Monitor, Processing ou Python para
 * Ajuste a velocidade de rotação do servo motor alterando o valor do `delay` dentro dos loops `for`.
 * Explore diferentes formas de visualizar os dados, como gráficos polares ou mapas 2D.
 * Este é um projeto básico. Você pode adicionar recursos como detecção de obstáculos, controle remoto, etc.
+
+**Tecnologias Utilizadas**
+	* C++
+
+**Membros da Equipe**
+  * Pedro Schmitz
+	* Rafael Porto
+
