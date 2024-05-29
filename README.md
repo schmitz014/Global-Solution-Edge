@@ -68,5 +68,5 @@ Utilize um software como o Arduino IDE Serial Monitor, Processing ou Python para
 
 **Membros da Equipe**
   * Pedro Schmitz
-	* Rafael Porto
+* Rafael Porto
 
