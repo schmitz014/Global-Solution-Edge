@@ -1,4 +1,4 @@
-## Radar de materias tóxicos
+## Projeto em Ardunino: Radar de materias tóxicos
 
 Este projeto demonstra como criar um sistema de mapeamento de ambiente usando um Arduino Uno, um servo motor e um sensor ultrassônico HC-SR04. O servo motor gira em um arco de 150 graus (15° a 165°), enquanto o sensor ultrassônico mede a distância dos objetos em cada posição angular. Os dados coletados são enviados para o computador via porta serial, onde podem ser processados e visualizados para criar um mapa do ambiente e assim localizar os poluentes dos mares.
 
