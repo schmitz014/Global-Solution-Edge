@@ -15,13 +15,13 @@ Este projeto demonstra como criar um sistema de mapeamento de ambiente usando um
 1. **Servo Motor:**
    * Fio vermelho: Conectar ao pino 5V do Arduino.
    * Fio marrom ou preto: Conectar ao pino GND do Arduino.
-   * Fio laranja ou amarelo: Conectar ao pino digital 12 do Arduino.
+   * Fio laranja ou amarelo: Conectar ao pino digital do Arduino.
 
 2. **Sensor Ultrassônico:**
    * VCC: Conectar ao pino 5V do Arduino.
    * GND: Conectar ao pino GND do Arduino.
-   * TRIG: Conectar ao pino digital 10 do Arduino.
-   * ECHO: Conectar ao pino digital 11 do Arduino.
+   * TRIG: Conectar ao pino digital do Arduino.
+   * ECHO: Conectar ao pino digital do Arduino.
 
 **Funcionamento do Código:**
 
